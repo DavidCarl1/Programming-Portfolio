@@ -17,5 +17,3 @@ Images:
 
 
 [View Repository](https://github.com/Umberto28/accelerashot-projectwork)
-Team size: 8 people
-Demo production time: 4 months
